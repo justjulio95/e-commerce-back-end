@@ -20,8 +20,8 @@ To install the necessary dependencies please run the following command:
 ## Usage
 To use this application, once the dependencies are installed, you will need to create a `.env` file and create the following variables: 
 - `DB_NAME= ''` 
-- `DB_USER= '' `
-` `DB_PW= ''` 
+- `DB_USER= ''`
+- `DB_PW= ''` 
 Enter the appropriate information in the file so the connection file can read it. Once that's been done, simply run `npm start` in your terminal and the project can be interacted with through Insomnia.
 
 ## License
